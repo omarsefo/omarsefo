@@ -1,5 +1,8 @@
-         <h2 id="p1" class="text-1">Hello, my name is</h2>
-          <h1 id="p2" class="text-2">Omar Sefo</h1>
-          <h2 id="p3" class="text-3">
-            And I'm a Front end & Flutter developer
-          </h2>
+<h1 align="center">Hi, I'm Omar 👋</h1>
+  
+  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
+
+Hello, I am studying computer engineering in
+the fifth year and I finished as a
+Front end Developer and
+Flutter Developer
