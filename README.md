@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Sefo</h1>
-<h3 align="center">A frontend developer & information technology from Syria</h3>
+<h3 align="center">A information technology & frontend developer from Syria</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
